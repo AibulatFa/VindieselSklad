@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836715934212",
+    "project_id": "skladvindiesel-693f0",
+    "storage_bucket": "skladvindiesel-693f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836715934212:android:141921ebd46844ab2a7b51",
+        "android_client_info": {
+          "package_name": "com.example.vindieselsklad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpGz16pNiT1ITS0BCDTPEr14P88OnfzNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
